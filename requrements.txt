@@ -1,0 +1,6 @@
+fastapi
+freezegun
+httpx
+pydantic-settings
+pytest
+uvicorn
